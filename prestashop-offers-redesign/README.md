@@ -56,7 +56,7 @@ Rather than treating each offer as an isolated piece of content, I considered ho
 
 The redesigned Offers page helps users understand PrestaShop's different options, compare what each plan provides, and choose a path based on their needs and level of technical experience.
 
-![Final PrestaShop Offers Page](images/prestashop-final.png)
+![Final PrestaShop Offers Page](../prestashop-final.png.png)
 
 ### Key Content Design Decisions
 
